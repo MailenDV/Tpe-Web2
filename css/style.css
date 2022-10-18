@@ -1,0 +1,16 @@
+.finalizada span {
+    opacity: .6;
+    text-decoration: line-through;
+}
+
+#main-container {
+    width: 600px;
+    margin: 150px;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+    
+}
+
